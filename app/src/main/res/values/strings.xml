@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ProfitTeam</string>
+    <string name="hello_world">Click Here to access our Website</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="link">http://203.80.227.166/profitteam/pft-home.htm</string>
+    <string name="ALERTA1">You are backing out.</string>
+    <string name="ALERTA2">Are you sure?</string>
+    <string name="ALERTA3">Fine be that way.</string>
+    <string name="ALERTA4">Take me back!</string>
+
+</resources>
